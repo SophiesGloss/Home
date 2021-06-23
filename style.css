@@ -3,8 +3,8 @@
   height: 4rem;
   background-color: #8e44ad;
 }
-.item {
-  margin: 0rem 1rem !important;
+.item:last-child {
+  margin-right: 1rem !important;
 }
 .seg {
   padding: 5rem;
